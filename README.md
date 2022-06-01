@@ -15,7 +15,7 @@ Indian Driving Dataset (IDD) -
 IDD, is a novel dataset for road scene understanding in unstructured environments. 
 It consists of 10,004 images, finely annotated with 34 classes collected from 182 drive sequences on Indian roads.
 
-#Steps To Run Code
+# Steps To Run Code
 1) Replace the drive path with user drive path.
 2) Set the number of epoch you want to train the model.
 3) Run the last cell to get all performace parameters.
